@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "CCEI BRiO WiL",
+        "description": "Enter the IP address of your BRiO WiL controller.",
+        "data": {
+          "host": "Host"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not connect to the device. Verify the IP address and that the device is powered on."
+    },
+    "abort": {
+      "already_configured": "This device is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "BRiO WiL Settings",
+        "data": {
+          "poll_interval": "Poll interval (seconds)",
+          "retry_interval": "Initial retry interval (seconds)",
+          "max_retry_interval": "Maximum retry interval (seconds)"
+        }
+      }
+    }
+  }
+}

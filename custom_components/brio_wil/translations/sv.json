@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "CCEI BRiO WiL",
+        "description": "Ange IP-adressen till din BRiO WiL-kontroller.",
+        "data": {
+          "host": "Värd"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kunde inte ansluta till enheten. Kontrollera IP-adressen och att enheten är påslagen."
+    },
+    "abort": {
+      "already_configured": "Enheten är redan konfigurerad."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "BRiO WiL-inställningar",
+        "data": {
+          "poll_interval": "Pollningsintervall (sekunder)",
+          "retry_interval": "Initialt retry-intervall (sekunder)",
+          "max_retry_interval": "Maximalt retry-intervall (sekunder)"
+        }
+      }
+    }
+  }
+}

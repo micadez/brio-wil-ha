@@ -1,0 +1,9 @@
+{
+  "domain": "brio_wil",
+  "name": "CCEI BRiO WiL",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/your-repo/brio_wil",
+  "iot_class": "local_polling",
+  "version": "1.0.0"
+}

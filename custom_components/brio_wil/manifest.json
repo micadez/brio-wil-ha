@@ -3,7 +3,7 @@
   "name": "CCEI BRiO WiL",
   "codeowners": [],
   "config_flow": true,
-  "documentation": "https://github.com/your-repo/brio_wil",
+  "documentation": "https://github.com/micadez/brio-wil-ha",
   "iot_class": "local_polling",
   "version": "1.0.0"
 }

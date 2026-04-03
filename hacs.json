@@ -1,6 +1,4 @@
 {
   "name": "CCEI BRiO WiL",
-  "render_readme": true,
-  "content_in_root": false,
-  "filename": "icon.png"
+  "render_readme": true
 }

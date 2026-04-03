@@ -1,5 +1,9 @@
 # CCEI BRiO WiL
 
+<p align="center">
+  <img src="custom_components/brio_wil/icon.png" alt="CCEI BRiO WiL" width="200">
+</p>
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
 Custom Home Assistant integration for **CCEI BRiO WiL** pool lighting.
